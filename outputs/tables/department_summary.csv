@@ -1,0 +1,7 @@
+department,patients,avg_wait,avg_cost,avg_satisfaction
+Cardiology,71,35.87,10429.0,4.31
+Gynecology,70,41.21,11317.05,4.24
+Medicine,121,52.83,2117.01,3.97
+Orthopedics,75,41.65,7914.49,4.19
+Pediatrics,107,41.25,1425.1,4.26
+Surgery,56,41.33,28597.66,4.18

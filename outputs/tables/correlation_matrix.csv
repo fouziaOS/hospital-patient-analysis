@@ -1,0 +1,5 @@
+,age,wait_time_min,treatment_cost_bdt,satisfaction
+age,1.0,0.07,0.26,-0.08
+wait_time_min,0.07,1.0,-0.12,-0.64
+treatment_cost_bdt,0.26,-0.12,1.0,0.04
+satisfaction,-0.08,-0.64,0.04,1.0
